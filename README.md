@@ -10,5 +10,6 @@ Painting Board made with VanillaJs
 - [x] Fill canvas
 - [x] Save images
 
-<img src="./1.png" style="height:500px; width:450px"/>
+<img src="./1.png" width="600" height="700"/>
+
 <!-- ![painting](1.png) -->
