@@ -1,8 +1,8 @@
 # VanillaJS_paintingboard
----
+
 Painting Board made with VanillaJs
 
----
+
 ## Features
 - [x] Paint
 - [x] Change brush size
